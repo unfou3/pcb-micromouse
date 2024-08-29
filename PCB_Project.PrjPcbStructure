@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=DRV.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=DRV.SchDoc|FileName=ESP.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DRV.SchDoc|FileName=IRSENSOR.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=DRV.SchDoc|FileName=LEFT.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DRV.SchDoc|FileName=MPU6500.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=DRV.SchDoc|FileName=RIGHT.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DRV.SchDoc|FileName=VL6180.SchDoc|SheetNumber=6
